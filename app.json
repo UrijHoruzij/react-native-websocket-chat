@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-webrtc-chat",
-    "slug": "react-native-webrtc-chat",
+    "name": "react-native-websocket-chat",
+    "slug": "react-native-websocket-chat",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +23,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.urijhoruzij.websocketchat",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
