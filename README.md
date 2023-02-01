@@ -4,7 +4,7 @@
 </p>
 <p align="center">
     <a aria-label="License" href="https://github.com/UrijHoruzij/react-native-websocket-chat/blob/master/LICENSE">
-      <img alt="GitHub" src="https://img.shields.io/github/license/UrijHoruzij/react-native-websocket-chat?color=036280">
+      <img alt="License" src="https://img.shields.io/github/license/UrijHoruzij/react-native-websocket-chat?color=036280">
     </a>
   </p>
 
